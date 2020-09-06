@@ -67,43 +67,6 @@ Coinjoin can obfuscate the final address of your coins if you practice good post
 
 ***
 
-## Do I have any other options?
-Thankfully there are some options out there to purchase Bitcoin via no KYC sources. These are all P2P (peer to peer) exchanges where you are trading directly with another individual and not a centralised third party. Unfortunately some sell other coins as well as bitcoin so we urge you to take care.
-
-* [**Hodl Hodl**](https://hodlhodl.com/) 
-
-<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConly/master/images/HH.jpg" class=responsive width="250" height="250" maxheight="250">
-
-<br/>
-
-* [**Bisq**](https://bisq.network)
-
-<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConly/master/images/bisq.png" class=responsive width="350" height="150" maxheight="150">
-
-<br/>
-
-* [**LocalCryptos**](https://localcryptos.com/)
-
-<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConly/master/images/LocalCrypto.png" class=responsive width="350" height="150" maxheight="150">
-
-<br/>
-
-* [**Local Coin Swap**](https://localcoinswap.com/)
-
-<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConly/master/images/LCS.png" class=responsive width="350" height="120" maxheight="120">
-
-<br/>
-
-You can find more at [KYC, not me!](http://kycnot.me)
-
-<br/>
-
-### Bitcoin ATMs
-
-ATM's are another great option, but use with caution as some still require varying levels of identification depending on the amount being purchased. A lot will just require a phone number so ensure you use one that is not tagged to your personal identity. Check out [Coin ATM Radar](https://coinatmradar.com/) for a great overview of what is available in your local area.
-
-***
-
 ## Doesn't buying no-KYC bitcoin come with a hefty premium?
 
 It is absolutelty true that you will see some offers to purchase bitcoin on P2P exchanges for some **very** high premiums over the spot price. However if you are patient enough you can pick some up at spot or just marginally (1-4%) above. Both Bisq and Hodl Hodl allow you to create a 'Buy offer' which is essentially, you telling the market that you want to buy 'X' amount of bitcoin at 'X%' relative to the spot price. All you need to do then is wait for a seller to accept your offer and complete the trade.
@@ -119,21 +82,6 @@ We personally take this approach and have never waited for more than a day for s
 If you ever sell KYC bitcoin, depending on your jurisdiction, you will likely pay around 20% of your gain in Capital Gains Tax (or equivalent VAT/GST obligations). If you buy a 1 BTC at $10,000 and sell at $20,000, you are liable to pay around $2000 in taxes. 
 
 If you bought that same 1 BTC with a 4% premium over the $10,000 spot price you would have paid $10,400 for the same amount of sats and the only person who knows you own them your trade counterparty. 
-
-<br/>
-
-***
-
-## How else can I get some no-KYC bitcoin?
-
-There are a numebr of ways, each with varying levels of difficulty and complexity...
-
-* Earn it
-* Sell unwanted goods for it
-* Buy it from a friend or at a local meetup 
-* Provide value to others and have a [donations](https://btcpayjungle.com/apps/3CJnSM5L77XEurAMxdP9aZrEnu13/pos) page
-* Pay for dinner when out with friends and ask them to reimburse you via bitcoin (perhaps for a slight discount?)
-* Mine it (check out [this](https://keybase.pub/diverterbtc/Mining%20for%20the%20Streets.pdf) great piece on garage mining)
 
 <br/>
 
@@ -164,6 +112,8 @@ Cease purchasing bitcoin via KYC sources immediately and completely segregate an
 ### no-KYC only.
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConly/master/images/Logo.png" class=responsive width="250" height="250" maxheight="250">
+
+#### Site created by [Bitcoin Q+A](https://twitter.com/BitcoinQ_A) of [BitcoinQnA.com](https://www.bitcoinqna.com/)
 
 ***
 
