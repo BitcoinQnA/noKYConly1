@@ -47,7 +47,7 @@ KYC information ties your personal identity to any bitcoin you purchase. The exc
 * Your banking information
 * Where you withdraw to
 
-A central party holding millions of people's sensitive and personal information creates a huge honey pot at risk of being stolen due to incompetent security practices at some of these companies. How would you feel if your name, address, photo and exactly how much Bitcoin you own was stolen from an exchange and being sold to the highest bigger on a darknet market? 
+A central party holding millions of people's sensitive and personal information creates a huge honey pot at risk of being stolen due to incompetent security practices at some of these companies. How would you feel if your name, address, photo and exactly how much Bitcoin you own was stolen from an exchange and being sold to the highest bidder on a darknet market? 
 This sounds like scaremongering but data leaks happen all too often!
 
 ### Censorship
