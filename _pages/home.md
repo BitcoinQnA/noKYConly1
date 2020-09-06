@@ -52,7 +52,7 @@ This sounds like scaremongering but data leaks happen all too often!
 
 ### Censorship
 Most of these exchanges work, in some shape or form, directly with chain surveillance firms (and some, directly with government agencies!) to remain compliant in their chosen jurisdiction.
-The completely transparent nature of the Bitcoin blockchain means that anyone with the correct toolset (such as a chain surveillance firm) can follow your activity. If you withdraw to, or deposit from an entity that the exchange does not like, they can freeze or even close your account. Not exactly fitting with the censorship resistant properties that Bitcoin is renound for!
+The completely transparent nature of the Bitcoin blockchain means that anyone with the correct toolset (such as a chain surveillance firm) can follow your activity. If you withdraw to, or deposit from an entity that the exchange does not like, they can freeze or even close your account. Not exactly fitting with the censorship resistant properties that Bitcoin is renowned for!
 
 ### 6102 type order
 [Executive Order 6102](https://en.wikipedia.org/wiki/Executive_Order_6102) is an executive order signed on April 5, 1933, by US President Franklin D. Roosevelt "forbidding the hoarding of gold coin, gold bullion, and gold certificates within the continental United States."
