@@ -101,6 +101,8 @@ Sell your KYC bought coins back at the exchange you bought them from. Depending 
 ### Keep two stacks
 Cease purchasing bitcoin via KYC sources immediately and completely segregate and label those funds. Start obtaining bitcoin via a non-KYC source, ensuring you maintain complete segregation. This option still leaves you vulnerable to some of the risks outlined above but may be more paletable for those with smaller KYC amounts or those not wanting to sell and deal with taxable events.
 
+You should also consider coinjoining your KYC stack. This will not erase your KYC history but it would give forward looking privacy for future transactions. Whirlpool is by far the easiest and most effective coinjoin implementation, learn more [here](https://www.bitcoinqna.com/post/whirlpool-faq).
+
 <br/>
 
 ***
