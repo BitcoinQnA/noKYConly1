@@ -103,6 +103,9 @@ Cease purchasing bitcoin via KYC sources immediately and completely segregate an
 
 You should also consider coinjoining your KYC stack. This will not erase your KYC history but it would give forward looking privacy for future transactions. Whirlpool is by far the easiest and most effective coinjoin implementation, learn more [here](https://www.bitcoinqna.com/post/whirlpool-faq).
 
+### Move jurisdictions
+This is more on the extreme end of the spectrum, but moving jurisdictions could be an option to free you from future obligations. Of course this is not a 100% guarantee as certain jurisdictions may have information sharing agreements (the EU for example).
+
 <br/>
 
 ***
